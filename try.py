@@ -6,4 +6,5 @@ def aFunction( i ):
 if __name__ == "__main__":
     print "Some stuff or whatever."
     print aFucntion(123)
+    print "aaaa"
 
